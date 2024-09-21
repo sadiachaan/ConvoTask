@@ -1,0 +1,29 @@
+
+
+footer {
+  background-image: url('/public/utils/Rectangle48.png'); /* Replace with your background image */
+  background-size: cover;
+  background-position: center;
+  height: 150px; /* Adjust the height based on your design */
+  /* display: flex; */
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+  padding: 3rem;
+
+}
+
+.footer-content {
+  display: table;
+  align-items: center;
+  padding-left: 40px; /* Adjust based on the spacing you need */
+}
+
+.footer-logo {
+  height: 50px; /* Adjust the logo size */
+  margin-right: 20px; /* Space between the logo and text */
+}
+
+footer p {
+  font-size: 16px;
+}
